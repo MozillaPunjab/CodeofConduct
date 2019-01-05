@@ -1,4 +1,4 @@
-# CodeofConduct
+# Code of Conduct
 
 The heart of our Community is people. We put people first and do our best to recognize, appreciate and respect the diversity of our global contributors. We welcome contributions from everyone who shares our goals and wants to contribute in a healthy and constructive manner within our community. As such, we have adopted this code of conduct and require all those who participate to agree and adhere to these Community Participation Guidelines in order to help us create a safe and positive community experience for all.
    These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
