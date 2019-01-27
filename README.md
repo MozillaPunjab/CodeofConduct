@@ -46,5 +46,5 @@ The heart of our Community is people. We put people first and do our best to rec
    - Give feedback privately if you think it may be embarrassing for the recipient, and
    - If someone responds poorly to feedback, don’t force them to take it, just stop interacting.  
 #### Reporting
-    If you find anyone misbehaving in the Community or going against the Code of Conduct, report it to any of the organisers/department heads/leaders as soon as possible via any communication method you prefer.  
+  If you find anyone misbehaving in the Community or going against the Code of Conduct, report it to any of the organisers/department heads/leaders as soon as possible via any communication method you prefer.  
 #### We expect all Community Members to Follow the CoC at all times and anyone found going against it, shall be warned and removed from the Community, if their actions are repeated.
